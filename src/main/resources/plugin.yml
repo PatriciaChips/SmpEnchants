@@ -1,0 +1,10 @@
+name: SmpEnchants
+version: '0.01'
+main: org.pat.smpEnchants.SmpEnchants
+api-version: '1.21'
+commands:
+  test:
+    permission:
+      - enchants.admin
+    aliases:
+      - ts
